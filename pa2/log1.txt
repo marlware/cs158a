@@ -1,0 +1,14 @@
+[23:40:23.387] process started with id=d73be3e4-5103-4b64-a148-e65e8a5897b8
+[23:40:23.388] id=d73be3e4-5103-4b64-a148-e65e8a5897b8
+[23:40:23.390] server listening on 127.0.0.1:5001
+[23:40:25.390] connecting to 127.0.0.1:5002
+[23:40:25.392] connected to server at 127.0.0.1:5002
+[23:40:25.392] Sent: uuid=d73be3e4-5103-4b64-a148-e65e8a5897b8, flag=0
+[23:40:26.408] accepted connection from ('127.0.0.1', 58352)
+[23:40:26.409] Received: uuid=6820ba92-261f-46bd-abac-98312fa8a67f, flag=0, greater, 0
+[23:40:26.409] Ignored: uuid=6820ba92-261f-46bd-abac-98312fa8a67f, flag=0 (smaller uuid)
+[23:40:26.410] Received: uuid=f6fea6ea-cc27-4f0f-b59d-ad2b98ab31a7, flag=0, less, 0
+[23:40:26.411] Sent: uuid=f6fea6ea-cc27-4f0f-b59d-ad2b98ab31a7, flag=0
+[23:40:26.413] Received: uuid=f6fea6ea-cc27-4f0f-b59d-ad2b98ab31a7, flag=1, less, 1, leader_id=f6fea6ea-cc27-4f0f-b59d-ad2b98ab31a7
+[23:40:26.414] Sent: uuid=f6fea6ea-cc27-4f0f-b59d-ad2b98ab31a7, flag=1
+[23:40:26.414] process terminated

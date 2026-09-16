@@ -1,0 +1,14 @@
+[23:40:23.877] process started with id=f6fea6ea-cc27-4f0f-b59d-ad2b98ab31a7
+[23:40:23.877] id=f6fea6ea-cc27-4f0f-b59d-ad2b98ab31a7
+[23:40:23.879] server listening on 127.0.0.1:5002
+[23:40:25.392] accepted connection from ('127.0.0.1', 58350)
+[23:40:25.880] connecting to 127.0.0.1:5003
+[23:40:25.881] connected to server at 127.0.0.1:5003
+[23:40:25.881] Sent: uuid=f6fea6ea-cc27-4f0f-b59d-ad2b98ab31a7, flag=0
+[23:40:25.882] Received: uuid=d73be3e4-5103-4b64-a148-e65e8a5897b8, flag=0, greater, 0
+[23:40:25.882] Ignored: uuid=d73be3e4-5103-4b64-a148-e65e8a5897b8, flag=0 (smaller uuid)
+[23:40:26.411] Received: uuid=f6fea6ea-cc27-4f0f-b59d-ad2b98ab31a7, flag=0, same, 0
+[23:40:26.411] Leader is decided to f6fea6ea-cc27-4f0f-b59d-ad2b98ab31a7.
+[23:40:26.413] Sent: uuid=f6fea6ea-cc27-4f0f-b59d-ad2b98ab31a7, flag=1
+[23:40:26.414] Received: uuid=f6fea6ea-cc27-4f0f-b59d-ad2b98ab31a7, flag=1, same, 1, leader_id=f6fea6ea-cc27-4f0f-b59d-ad2b98ab31a7
+[23:40:26.414] process terminated
